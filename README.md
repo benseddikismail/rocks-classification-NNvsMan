@@ -1,4 +1,4 @@
-# Rocks Classi
+# Modeling Rock Classification Using Deep Learning and Psychological Frameworks
 This study explores the intersection of neural networks and human cognition in classifying rocks by integrating deep learning techniques with psychological models of categorization. Its primary objective is to bridge the gap between machine learning and human cognition by employing deep learning representations of complex natural stimuli, such as rock images, as inputs for formal psychological classification models.
 
 The research aims to achieve three key goals: derive psychological feature representations for natural stimuli using convolutional neural networks (CNNs), leverage these representations to predict human categorization behavior, and compare the performance of machine-generated models with human classification patterns.
